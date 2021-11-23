@@ -1,0 +1,6 @@
+module Pods_LimitNotifier_LimitNotifierTests {
+  umbrella header "Pods-LimitNotifier-LimitNotifierTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

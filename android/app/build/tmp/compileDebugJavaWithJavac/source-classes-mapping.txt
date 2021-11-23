@@ -1,0 +1,14 @@
+com/limitnotifier/MainApplication.java
+ com.limitnotifier.MainApplication
+ com.limitnotifier.MainApplication$1
+com/limitnotifier/BuildConfig.java
+ com.limitnotifier.BuildConfig
+com/limitnotifier/ReactNativeFlipper.java
+ com.limitnotifier.ReactNativeFlipper
+ com.limitnotifier.ReactNativeFlipper$1
+ com.limitnotifier.ReactNativeFlipper$2
+ com.limitnotifier.ReactNativeFlipper$2$1
+com/limitnotifier/MainActivity.java
+ com.limitnotifier.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
